@@ -5,7 +5,33 @@
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    
+    <title>HackingEDU</title>
+    
+        <!-- Mobile features -->
+    <link rel="apple-touch-startup-image" href="favicon.ico">
+    <link rel="icon" type="image/png" href="favicon.ico">
+    <link rel="apple-touch-icon" type="image/png" href="favicon.ico">
+    <link rel="icon" sizes="144x144" href="favicon.ico">
+    <link rel="icon" sizes="192x192" href="favicon.ico">
+    
+    <!-- Add to homescreen for Chrome on Android + Colored Tilebar on Chrome Android -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#203041">
+
+    <!-- Add to homescreen for Safari on iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"
+    <meta name="apple-mobile-web-app-title" content="HackingEDU">
+    <link rel="apple-touch-icon-precomposed" href="favicon.ico">
+
+    <!-- Tile icon for Windows 10 (144x144 + tile color) -->
+    <meta name="msapplication-TileImage" content="favicon.ico">
+    <meta name="msapplication-square310x310logo" content="favicon.ico">
+    <meta name="msapplication-TileColor" content="#3372DF">
+    
+    <!--Website Details-->
     <meta name="description" content="">
     <meta name="author" content="">
     <meta property="og:url" content="http://hackingedu.co"/>
@@ -13,8 +39,6 @@
     <meta property="og:title" content="HackingEDU"/>
     <meta property="og:description" content="HackingEDU, the largest education hackathon conceived with the intent to disrupt the classroom and push the envelope on the contemporary education system."/>
     <meta property="og:image" content="http://hackingedu.co/assets/img/hacklogo-prism.png"/>
-
-    <title>HackingEDU</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
